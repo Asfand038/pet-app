@@ -27,6 +27,6 @@ npm run server
 
 Run app on your local machine by using following command:
 ```sh
-   npm run app
+npm run app
 ```
 
