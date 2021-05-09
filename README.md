@@ -1,5 +1,5 @@
 # PET APP - GRAPHQL CONSUMPTION IN REACT
-> By Scott Moss and Frontend Masters
+> This source code is part of Scott Moss' course on frontendmasters.com.
 
 ## The project includes following:**
 
