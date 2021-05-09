@@ -19,9 +19,7 @@
 
 ## Available Scripts
 
-```sh 
-npm run app
-```
+```sh npm run app```
 ```sh 
 npm run server
 ```
