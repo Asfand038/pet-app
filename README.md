@@ -19,7 +19,14 @@
 
 ## Available Scripts
 
-```sh npm run app```
+
+Execute the following command to run server: 
 ```sh 
 npm run server
 ```
+
+Run app on your local machine by using following command:
+```sh
+   npm run app
+```
+
